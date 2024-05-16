@@ -1,0 +1,47 @@
+
+a	java:S112à"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112ô"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+p
+java:S1192Ò"YDefine a constant instead of duplicating this literal "Por favor, elije un item" 4 times.(ú‡øš
+D
+java:S1604Ÿ"(Make this anonymous inner class a lambda(ú†ùêøÿÿÿÿ
+D
+java:S1604§"(Make this anonymous inner class a lambda(¢Ì Ûÿÿÿÿÿ
+D
+java:S1604­"(Make this anonymous inner class a lambda(Ñ¤Íãûÿÿÿÿ
+D
+java:S1604µ"(Make this anonymous inner class a lambda(“ü†Ïûÿÿÿÿ
+D
+java:S1604½"(Make this anonymous inner class a lambda(®§…ûÿÿÿÿÿ
+c
+java:S1659#"MDeclare "labelDescripcion" and all following declarations on a separate line.(®²¼»
+c
+java:S1659$"MDeclare "textoDescripcion" and all following declarations on a separate line.(‡şĞú
+a
+java:S1659&"KDeclare "botonModificar" and all following declarations on a separate line.(òûíÂ
+r
+java:S1450#"\Remove the "labelCantidad" field and declare it as a local variable in the relevant methods.(®²¼»
+s
+java:S1450#"]Remove the "labelCategoria" field and declare it as a local variable in the relevant methods.(®²¼»
+u
+java:S1450#"_Remove the "labelDescripcion" field and declare it as a local variable in the relevant methods.(®²¼»
+p
+java:S1450#"ZRemove the "labelNombre" field and declare it as a local variable in the relevant methods.(®²¼»
+I
+java:S1948!"3Make "connectionFactory" transient or serializable.(£ˆ˜
+J
+java:S1948)"4Make "productoController" transient or serializable.(¾ŠÌÍ
+K
+java:S1948*"5Make "categoriaController" transient or serializable.(øĞ±˜
+?	java:S1061"+Replace this use of System.out by a logger.(Ê¼Ác
+@	java:S1063"+Replace this use of System.out by a logger.(á„ìÑ
+I
+java:S1135„"2Complete the task associated to this TODO comment.(…ïœ†
+Q	java:S125™"<This block of commented-out lines of code should be removed.(Î¹±t
+W	java:S125 "<This block of commented-out lines of code should be removed.(ñ‹ÿàşÿÿÿÿ
+F	java:S106¨"+Replace this use of System.out by a logger.(œÖÖğùÿÿÿÿ
+I
+java:S1128
+".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+^
+java:S1128"CRemove this unused import 'javax.management.RuntimeErrorException'.(ÍÖÅÓøÿÿÿÿ

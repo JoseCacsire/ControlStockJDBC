@@ -1,0 +1,7 @@
+
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$3cc53b02-d1ab-48c0-9cfd-09cf21309ed0
+f	java:S106*"+Replace this use of System.out by a logger.(¾ª¶J$606b930d-07e2-4f8e-87b4-8ba02809a159
+e	java:S106,"+Replace this use of System.err by a logger.(ùÿ×aJ$48a63cd5-8bd9-4465-816d-07920994c00d
+w	java:S1253"<This block of commented-out lines of code should be removed.(ô¶£ÄJ$02dda7b6-7fbc-4ce4-9972-0f983fa1f9dc
+o
+java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°J$f5eed5d9-01c6-4948-b81f-e22e3f10a32c
